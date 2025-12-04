@@ -1,0 +1,20 @@
+[en]
+HELP_COMS = AMX Mod X Help: Commands
+HELP_ENTRIES = Entries %d - %d of %d
+HELP_USE_MORE = Use '%s %d' for more
+HELP_USE_BEGIN = Use '%s 1' for begin
+TYPE_HELP = Type '%s' '%s' in the console to see available commands
+TIME_INFO_1 = Time Left: %d:%02d min. Next Map: %s
+TIME_INFO_2 = No Time Limit. Next Map: %s
+HELP_CMD_INFO = <entry no.> [no. of entries to display (server only)] - displays information about available commands
+SEARCH_CMD_INFO = <match> <entry no.> [no. of entries to display (server only)] - displays information about matched commands
+NO_MATCHING_RESULTS = ^nNo matching results found^n
+
+[ru]
+HELP_COMS = AMX Mod X Помощь: Команды
+HELP_ENTRIES = Список доступных команд с %d по %d. Всего команд - %d
+HELP_USE_MORE = Напишите '%s %d" для продолжения
+HELP_USE_BEGIN = Напишите '%s 1' для просмотра с начала
+TYPE_HELP = Напишите в консоле '%s' '%s' для просмотра доступных команд
+TIME_INFO_1 = До смены карты осталось: %d:%02d мин. Следующая карта: %s
+TIME_INFO_2 = Ограничения по времени нет. Следующая карта: %s

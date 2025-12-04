@@ -1,0 +1,7 @@
+[en]
+LANG_NAME = English
+LANG_NAME_NATIVE = English
+
+[ru]
+LANG_NAME = Russian
+LANG_NAME_NATIVE = Русский

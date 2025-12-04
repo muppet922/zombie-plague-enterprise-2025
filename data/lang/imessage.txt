@@ -1,0 +1,5 @@
+[en]
+INF_REACH = Information Messages limit reached!
+
+[ru]
+INF_REACH = Достигнут максимум информационных сообщений!

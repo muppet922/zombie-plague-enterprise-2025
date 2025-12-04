@@ -1,0 +1,5 @@
+[en]
+DROPPED_RES = Dropped due to slot reservation
+
+[ru]
+DROPPED_RES = Извините мест нет, это зарезервированный слот!

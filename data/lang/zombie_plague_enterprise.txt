@@ -1,0 +1,365 @@
+[en]
+ZP_PREFIX = [ZPE]
+
+MENU_TITLE = \y Zombie Plague Enterprise ^n ^n
+
+NOTICE_VIRUS_FREE = The T-Virus has been set loose...
+NOTICE_FIRST = %s is the first zombie !!
+NOTICE_INFECT = %s's brains has been eaten...
+NOTICE_INFECT2 = %s's brains has been eaten by %s...
+NOTICE_NEMESIS = %s is a nemesis !!!
+NOTICE_ASSASSIN = %s is a assassin !!!
+NOTICE_SURVIVOR = %s is a survivor !!!
+NOTICE_SNIPER = %s is a sniper !!!
+NOTICE_SWARM = Swarm !!!
+NOTICE_MULTI = Multiple Infection !!!
+NOTICE_PLAGUE = Plague !!!
+NOTICE_ARMAGEDDON = Armageddon !!!
+
+WIN_HUMAN = Humans defeated the plague!
+WIN_ZOMBIE = Zombies have taken over the world!
+WIN_NO_ONE = No one won...
+
+CMD_INFECT_COLOR = turned into a zombie
+CMD_INFECT_LOG = turned into a zombie
+
+CMD_NEMESIS_COLOR = turned into a nemesis
+CMD_NEMESIS_LOG = turned into a nemesis
+
+CMD_ASSASSIN_COLOR = turned into a assassin
+CMD_ASSASSIN_LOG = turned into a assassin
+
+CMD_DISINFECT_COLOR = turned back to human
+CMD_DISINFECT_LOG = turned back to human
+
+CMD_SURVIVOR_COLOR = turned into a survivor
+CMD_SURVIVOR_LOG = turned into a survivor
+
+CMD_SNIPER_COLOR = turned into a sniper
+CMD_SNIPER_LOG = turned into a sniper
+
+CMD_RESPAWN_COLOR = respawned
+CMD_RESPAWN_LOG = respawned
+
+CMD_NOT_COLOR = Unavailable command.
+CMD_NOT_STUCK_COLOR = You are not stuck.
+CMD_NOT_ACCESS_COLOR = You have no access.
+CMD_NOT_EXTRAS_COLOR = Extra items are disabled.
+CMD_NOT_CLASSES_ZOMBIE_COLOR = Zombie classes are disabled.
+
+MENU_GIVE_WEAPONS = Give weapons
+MENU_BUY_EXTRA_ITEMS = Buy extra items
+MENU_CLASS_ZOMBIE = Choose zombie class
+MENU_CLASS_HUMAN = Choose human class
+MENU_UNSTUCK = Unstuck
+MENU_ADMIN = Admin menu
+
+MENU_GIVE_PRIMARY_WEAPONS = Primary weapon
+MENU_GIVE_SECONDARY_WEAPONS = Secondary weapon
+MENU_GIVE_GRENADES = Grenades
+
+MENU_AUTO_SELECT_ENABLED = Enabled
+MENU_AUTO_SELECT_DISABLED = Disabled
+MENU_AUTO_SELECT = Remember selection
+
+GIVE_DISABLED_COLOR = Give menu weapons are disabled.
+GIVE_ENABLED_COLOR = Your give menu weapons has been re-enabled.
+
+MENU_ADMIN_TITLE = Admin menu
+MENU_ADMIN_MAKE_ZOMBIE_OR_HUMAN = Make zombie/human
+MENU_ADMIN_MAKE_NEMESIS = Make nemesis
+MENU_ADMIN_MAKE_ASSASSIN = Make assassin
+MENU_ADMIN_MAKE_SURVIVOR = Make survivor
+MENU_ADMIN_MAKE_SNIPER = Make sniper
+MENU_ADMIN_RESPAWN = Respawn someone
+
+MENU_BACK = Back
+MENU_NEXT = Next
+MENU_EXIT = Exit
+
+ZOMBIE_ATTRIBUTE_HP_COLOR = Health
+ZOMBIE_ATTRIBUTE_ARMOR_COLOR = Armor
+ZOMBIE_ATTRIBUTE_SPEED_COLOR = Speed
+ZOMBIE_ATTRIBUTE_GRAVITY_COLOR = Gravity
+ZOMBIE_ATTRIBUTE_KNOCKBACK_COLOR = Knockback
+
+HUMAN_ATTRIBUTE_HP_COLOR = Health
+HUMAN_ATTRIBUTE_ARMOR_COLOR = Armor
+HUMAN_ATTRIBUTE_SPEED_COLOR = Speed
+HUMAN_ATTRIBUTE_GRAVITY_COLOR = Gravity
+
+CLASS_CLASS = Class:
+CLASS_ZOMBIE = Zombie
+CLASS_NEMESIS = Nemesis
+CLASS_ASSASSIN = Assassin
+CLASS_HUMAN = Human
+CLASS_SURVIVOR = Survivor
+CLASS_SNIPER = Sniper
+
+LAST_ZOMBIE_LEFT_COLOR = The last zombie has left, now %s is the last zombie.
+LAST_HUMAN_LEFT_COLOR = The last human has left, now %s is the last human.
+
+AMMO_NOT_ENOUGH_COLOR = You don't have enough ammo packs.
+AMMO_BOUGHT_COLOR = You purchased extra ammo for your weapons.
+
+ZOMBIE_SELECT_COLOR = Your class zombie after the next infection will be
+
+AMMO_PACKS1 = Ammo packs:
+SPECTATING = Spectating:
+
+ALREADY_ZOMBIE = Player already a zombie
+ALREADY_NEMESIS = Player already a nemesis
+ALREADY_ASSASSIN = Player already a assassin
+ALREADY_HUMAN = Player already a human
+ALREADY_SURVIVOR = Player already a survivor
+ALREADY_SNIPER = Player already a sniper
+
+INVALID_GAME_MODE = Command execution failed because invalid game mode name was passed
+
+CMD_START_GAME_MODE_COLOR = start game mode
+CMD_START_GAME_MODE_LOG = start game mode
+
+CANT_GIVE_WEAPONS_DEAD_COLOR = You can't get weapons when dead.
+MENU_GIVE_TIME_EXPIRED_COLOR = Time to get a weapon has expired.
+CANT_BUY_ITEMS_DEAD_COLOR = You can't buy extra items when dead.
+CMD_NOT_CLASSES_HUMAN_COLOR = Human classes are disabled.
+
+NO_ADMIN_MENU_COLOR = Admin menu not available.
+NO_CLASSES_COLOR = No classes are currently available to you.
+NO_EXTRA_ITEMS_COLOR = No extra items are currently available to you.
+
+CANT_CHANGE_TEAM_COLOR = You can't change team right now.
+MONEY_NOT_ENOUGH_COLOR = You don't have enough money.
+REQUIRED_AMOUNT_COLOR = %d required
+HUMAN_SELECT_COLOR = Your next human class will be
+MONEY1 = Money:
+
+MENU_CHOOSE_TEAM = Choose Team
+MENU_ADMIN_START_GAME_MODE = Start Game Mode (use before game mode start)
+
+ZOMBIE_NAME Classic Zombie = Classic Zombie
+ZOMBIE_DESCRIPTION Classic Zombie = =Balanced=
+
+ZOMBIE_NAME Raptor Zombie = Raptor Zombie
+ZOMBIE_DESCRIPTION Raptor Zombie = HP-- Speed++ Knockback++
+
+ZOMBIE_NAME Light Zombie = Light Zombie
+ZOMBIE_DESCRIPTION Light Zombie = HP- Jump+ Knockback+
+
+ZOMBIE_NAME Fat Zombie = Fat Zombie
+ZOMBIE_DESCRIPTION Fat Zombie = HP++ Speed- Knockback--
+
+ZOMBIE_NAME Leech Zombie = Leech Zombie
+ZOMBIE_DESCRIPTION Leech Zombie = HP- Knockback+ Leech++
+
+ZOMBIE_NAME Rage Zombie = Rage Zombie
+ZOMBIE_DESCRIPTION Rage Zombie = HP+ Speed+ Radioactivity++
+
+HUMAN_NAME Classic Human = Classic Human
+HUMAN_DESCRIPTION Classic Human = =Balanced=
+
+HUMAN_NAME Raptor Human = Raptor Human
+HUMAN_DESCRIPTION Raptor Human = HP-- Speed+ Gravity+
+
+ITEM_NAME Nightvision = Nightvision
+
+GAME_MODE_NAME_INFECTION = Infection
+GAME_MODE_NAME_NEMESIS = Nemesis
+GAME_MODE_NAME_ASSASSIN = Assassin
+GAME_MODE_NAME_SURVIVOR = Survivor
+GAME_MODE_NAME_SNIPER = Sniper
+GAME_MODE_NAME_SWARM = Swarm
+GAME_MODE_NAME_MULTIPLE_INFECTION = Multiple infection
+GAME_MODE_NAME_PLAGUE = Plague
+GAME_MODE_NAME_ARMAGEDDON = Armageddon
+
+CMD_CANT_LAST_HUMAN_COLOR = You can't use this command on the last human.
+CMD_CANT_LAST_ZOMBIE_COLOR = You can't use this command on the last zombie.
+CMD_ONLY_AFTER_GAME_MODE_COLOR = You can only use this command after a game mode started.
+
+GAME_MODE_CANT_START_COLOR = Game mode can't be started right now.
+
+CANT_RESPAWN = Player can't be respawned.
+
+[ru]
+ZP_PREFIX = [ZPE]
+
+MENU_TITLE = \y Zombie Plague Enterprise ^n ^n
+
+NOTICE_VIRUS_FREE = T-Virus был выпущен...
+NOTICE_FIRST = %s первый зомби !!
+NOTICE_INFECT = Мозги %s были съедены...
+NOTICE_INFECT2 = %s съел мозги %s...
+NOTICE_NEMESIS = %s немезида !!!
+NOTICE_ASSASSIN = %s ассассин !!!
+NOTICE_SURVIVOR = %s сюрвивор !!!
+NOTICE_SNIPER = %s снайпер !!!
+NOTICE_SWARM = Куча на кучу !!!
+NOTICE_MULTI = Массовое заражение !!!
+NOTICE_PLAGUE = Чума !!!
+NOTICE_ARMAGEDDON = Армагеддон !!!
+
+WIN_HUMAN = Люди победили чуму!
+WIN_ZOMBIE = Зомби захватили мир!
+WIN_NO_ONE = Ничья...
+
+CMD_INFECT_COLOR = стал зомби
+CMD_INFECT_LOG = стал зомби
+
+CMD_NEMESIS_COLOR = стал немезидой
+CMD_NEMESIS_LOG = стал немезидой
+
+CMD_ASSASSIN_COLOR = стал ассассином
+CMD_ASSASSIN_LOG = стал ассассином
+
+CMD_DISINFECT_COLOR = стал человеком
+CMD_DISINFECT_LOG = стал человеком
+
+CMD_SURVIVOR_COLOR = стал сюрвивором
+CMD_SURVIVOR_LOG = стал сюрвивором
+
+CMD_SNIPER_COLOR = стал снайпером
+CMD_SNIPER_LOG = стал снайпером
+
+CMD_RESPAWN_COLOR = возрождён
+CMD_RESPAWN_LOG = возрождён
+
+CMD_NOT_COLOR = Команда недоступна.
+CMD_NOT_STUCK_COLOR = Вы не застряли.
+CMD_NOT_ACCESS_COLOR = У вас нет доступа.
+CMD_NOT_EXTRAS_COLOR = Экстра айтемы отключены.
+CMD_NOT_CLASSES_ZOMBIE_COLOR = Классы зомби отключены.
+
+MENU_GIVE_WEAPONS = Взять оружие
+MENU_BUY_EXTRA_ITEMS = Купить экстра айтемы
+MENU_CLASS_ZOMBIE = Выберите класс зомби
+MENU_CLASS_HUMAN = Выберите класс человека
+MENU_UNSTUCK = Застрял
+MENU_ADMIN = Меню администратора
+
+MENU_GIVE_PRIMARY_WEAPONS = Основное оружие
+MENU_GIVE_SECONDARY_WEAPONS = Вторичное оружие
+MENU_GIVE_GRENADES = Гранаты
+
+MENU_AUTO_SELECT_ENABLED = Включено
+MENU_AUTO_SELECT_DISABLED = Выключено
+MENU_AUTO_SELECT = Запомнить выбор
+
+GIVE_DISABLED_COLOR = Меню для взятия оружия отключено.
+GIVE_ENABLED_COLOR = Меню для взятия оружия было повторно включено.
+
+MENU_ADMIN_TITLE = Меню администратора
+MENU_ADMIN_MAKE_ZOMBIE_OR_HUMAN = Сделать зомби/человеком
+MENU_ADMIN_MAKE_NEMESIS = Сделать немезидой
+MENU_ADMIN_MAKE_ASSASSIN = Сделать ассассином
+MENU_ADMIN_MAKE_SURVIVOR = Сделать сюрвивором
+MENU_ADMIN_MAKE_SNIPER = Сделать снайпером
+MENU_ADMIN_RESPAWN = Возродить кого-то
+
+MENU_BACK = Назад
+MENU_NEXT = Далее
+MENU_EXIT = Выход
+
+ZOMBIE_ATTRIBUTE_HP_COLOR = Жизни
+ZOMBIE_ATTRIBUTE_ARMOR_COLOR = Броня
+ZOMBIE_ATTRIBUTE_SPEED_COLOR = Скорость
+ZOMBIE_ATTRIBUTE_GRAVITY_COLOR = Гравитация
+ZOMBIE_ATTRIBUTE_KNOCKBACK_COLOR = Отдача
+
+HUMAN_ATTRIBUTE_HP_COLOR = Жизни
+HUMAN_ATTRIBUTE_ARMOR_COLOR = Броня
+HUMAN_ATTRIBUTE_SPEED_COLOR = Скорость
+HUMAN_ATTRIBUTE_GRAVITY_COLOR = Гравитация
+
+CLASS_CLASS = Класс:
+CLASS_ZOMBIE = Зомби
+CLASS_NEMESIS = Немезида
+CLASS_ASSASSIN = Ассассин
+CLASS_HUMAN = Человек
+CLASS_SURVIVOR = Сюрвивор
+CLASS_SNIPER = Снайпер
+
+LAST_ZOMBIE_LEFT_COLOR = Последний зомби сбежал, теперь %s последний зомби.
+LAST_HUMAN_LEFT_COLOR = Последний человек сбежал, теперь %s последний человек.
+
+AMMO_NOT_ENOUGH_COLOR = У вас недостаточно аммо паков.
+AMMO_BOUGHT_COLOR = Вы приобрели дополнительные патроны.
+
+ZOMBIE_SELECT_COLOR = Ваш класс зомби после следующей инфекции будет
+
+AMMO_PACKS1 = Аммо паки;
+SPECTATING = Наблюдатели:
+
+ALREADY_ZOMBIE = Игрок уже зомби
+ALREADY_NEMESIS = Игрок уже немезида
+ALREADY_ASSASSIN = Игрок уже ассассин
+ALREADY_HUMAN = Игрок уже человек
+ALREADY_SURVIVOR = Игрок уже сюрвивор
+ALREADY_SNIPER = Игрок уже снайпер
+
+INVALID_GAME_MODE = Несуществующий идентификатор игрового режима
+
+CMD_START_GAME_MODE_COLOR = запустил игровой режим
+CMD_START_GAME_MODE_LOG = запустил игровой режим
+
+CANT_GIVE_WEAPONS_DEAD_COLOR = Вы не можете взять оружие когда мертвы.
+MENU_GIVE_TIME_EXPIRED_COLOR = Время взятия оружия истекло.
+CANT_BUY_ITEMS_DEAD_COLOR = Вы не можете купить экстра айтемы когда мертвы.
+CMD_NOT_CLASSES_HUMAN_COLOR = Классы людей отключены.
+
+NO_ADMIN_MENU_COLOR = Меню администратора недоступно.
+NO_CLASSES_COLOR = В настоящее время нет доступных классов для вас.
+NO_EXTRA_ITEMS_COLOR = В настоящее время нет доступных экстра айтемов для вас.
+
+CANT_CHANGE_TEAM_COLOR = Вы не можете сменить команду прямо сейчас.
+MONEY_NOT_ENOUGH_COLOR = Вам не хватает денег.
+REQUIRED_AMOUNT_COLOR = %d требуется
+HUMAN_SELECT_COLOR = Ваш следующий класс человека будет
+MONEY1 = Деньги:
+
+MENU_CHOOSE_TEAM = Выберите команду
+MENU_ADMIN_START_GAME_MODE = Режим игры (использовать в начале раунда)
+
+ZOMBIE_NAME Classic Zombie = Классический
+ZOMBIE_DESCRIPTION Classic Zombie = =баланс=
+
+ZOMBIE_NAME Raptor Zombie = Хищник
+ZOMBIE_DESCRIPTION Raptor Zombie = жизни-- скорость++ отдача++
+
+ZOMBIE_NAME Light Zombie = Легкий
+ZOMBIE_DESCRIPTION Light Zombie = жизни- прыжок+ отдача+
+
+ZOMBIE_NAME Fat Zombie = Толстый
+ZOMBIE_DESCRIPTION Fat Zombie = жизни++ скорость- отдача--
+
+ZOMBIE_NAME Leech Zombie = Пиявка
+ZOMBIE_DESCRIPTION Leech Zombie = жизни- скорость- отдача+
+
+ZOMBIE_NAME Rage Zombie = Радиоактивный
+ZOMBIE_DESCRIPTION Rage Zombie = жизни+ скорость+ отдача+
+
+HUMAN_NAME Classic Human = Классический
+HUMAN_DESCRIPTION Classic Human = =баланс=
+
+HUMAN_NAME Raptor Human = Хищник
+HUMAN_DESCRIPTION Raptor Human = жизни-- скорость+ гравитация+
+
+ITEM_NAME Nightvision = Ночное видение
+
+GAME_MODE_NAME_INFECTION = Инфекция
+GAME_MODE_NAME_NEMESIS = Немезида
+GAME_MODE_NAME_ASSASSIN = Ассассин
+GAME_MODE_NAME_SURVIVOR = Сюрвивор
+GAME_MODE_NAME_SNIPER = Снайпер
+GAME_MODE_NAME_SWARM = Куча на кучу
+GAME_MODE_NAME_MULTIPLE_INFECTION = Массовое заражение
+GAME_MODE_NAME_PLAGUE = Чума
+GAME_MODE_NAME_ARMAGEDDON = Армагеддон
+
+CMD_CANT_LAST_HUMAN_COLOR = Вы не можете использовать эту команду на последнем человеке.
+CMD_CANT_LAST_ZOMBIE_COLOR = Вы не можете использовать эту команду на последнем зомби.
+CMD_ONLY_AFTER_GAME_MODE_COLOR = Вы можете использовать эту команду только во время игрового режима.
+
+GAME_MODE_CANT_START_COLOR = Игровой режим не может быть запущен прямо сейчас.
+
+CANT_RESPAWN = Игрок не может быть возрождён.

@@ -1,0 +1,9 @@
+[en]
+CMD_MENU = Commands Menu
+CONF_MENU = Configs Menu
+SPE_MENU = Speech Menu
+
+[ru]
+CMD_MENU = Меню команд
+CONF_MENU = Меню настроек
+SPE_MENU = Меню звуков
