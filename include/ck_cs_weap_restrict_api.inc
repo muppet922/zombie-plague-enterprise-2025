@@ -1,0 +1,33 @@
+#if defined _ck_cs_weap_restrict_api_included
+
+  #endinput
+
+#endif
+
+#define _ck_cs_weap_restrict_api_included
+
+/**
+ * Enables or disables weapon restrictions for a specific player.
+ *
+ * Note: if you pass an empty bitsum, all weapons will be restricted.
+ *
+ * @param {player} Player index.
+ * @param {set} True to enable, false to remove restrictions.
+ * @param {allowed_bitsum} Bitsum containing allowed weapons.
+ * @param {allowed_default} Default allowed weapon to switch back to. (in CSW_ format)
+ *
+ * @return None.
+ */
+native cs_set_player_weap_restrict(player, set, allowed_bitsum = false, allowed_default = false);
+
+/**
+ * Returns whether a player has weapon restrictions enabled. In the case
+ * that he does, also returns allowed_bistum and allowed_default (by referenced).
+ *
+ * @param {player} Player index.
+ * @param {allowed_bitsum} Bitsum containing allowed weapons.
+ * @param {allowed_default} Default allowed weapon to switch back to. (in CSW_ format)
+ *
+ * @return True if restrictions are enabled, false otherwise.
+ */
+native cs_get_player_weap_restrict(player, &allowed_bitsum = false, &allowed_default = false);
